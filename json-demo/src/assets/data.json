@@ -1,0 +1,16 @@
+{
+    "user": "Charlotte",
+    "projects": [
+        {
+            "name": "Lab 1 SQL",
+            "description": "Ducimus velit consequuntur dolorum numquam excepturi deleniti sed sapiente vero possimus!",
+            "progress": 100
+        },
+        {
+            "name": "Mini API",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos velit dolorum veritatis magni.",
+            "progress": 70
+        }
+    ]
+}
+
